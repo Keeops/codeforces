@@ -1,0 +1,4 @@
+0 : bir takımın oyuncuları
+1 : diğer takımın "
+
+7 tane aynı takım oyuncusu yan yana ise dangerous
